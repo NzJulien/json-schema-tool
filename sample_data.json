@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Alice Dupont",
+  "email": "alice@example.com",
+  "age": 30,
+  "is_active": true,
+  "roles": ["admin", "editor"],
+  "address": {
+    "street": "123 Main St",
+    "city": "Paris",
+    "country": "France"
+  }
+}
